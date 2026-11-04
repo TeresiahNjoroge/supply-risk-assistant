@@ -1,0 +1,2 @@
+item_code,item_name,from_facility,to_facility,move_units,donor_keeps,recipient_cover_before_days,recipient_cover_after_days,wastage_avoided_units
+AL-ACT,Artemether-Lumefantrine (AL),Kiambu District Store,Ruiru Health Centre,375,525,1.3,13.3,375

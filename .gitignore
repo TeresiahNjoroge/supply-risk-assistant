@@ -1,0 +1,11 @@
+# never commit the real key
+.env
+
+# python noise
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local output
+briefing_output.txt

@@ -1,0 +1,16 @@
+facility,item_code,item_name,category,current_stock,reorder_level,lead_time_days,expiry_date,unit_cost_kes
+Thika Dispensary,ORS-SACH,Oral Rehydration Salts sachet,Diarrhoea,80,150,7,2027-07-01,15
+Kiambu District Store,AL-ACT,Artemether-Lumefantrine (AL),Antimalarial,900,200,5,2026-11-23,120
+Ruiru Health Centre,AL-ACT,Artemether-Lumefantrine (AL),Antimalarial,40,120,6,2027-08-30,120
+Kiambu District Store,AMOX-250,Amoxicillin 250mg suspension,Antibiotic,420,200,5,2027-05-02,45
+Ruiru Health Centre,AMOX-250,Amoxicillin 250mg suspension,Antibiotic,260,150,6,2027-04-12,45
+Thika Dispensary,AMOX-250,Amoxicillin 250mg suspension,Antibiotic,190,120,7,2027-04-02,45
+Kiambu District Store,ORS-SACH,Oral Rehydration Salts sachet,Diarrhoea,600,200,5,2027-06-11,15
+Ruiru Health Centre,ORS-SACH,Oral Rehydration Salts sachet,Diarrhoea,300,150,6,2027-06-01,15
+Kiambu District Store,ZINC-20,Zinc Sulfate 20mg tablet,Diarrhoea,500,200,5,2027-05-22,8
+Ruiru Health Centre,ZINC-20,Zinc Sulfate 20mg tablet,Diarrhoea,240,150,6,2027-05-12,8
+Thika Dispensary,ZINC-20,Zinc Sulfate 20mg tablet,Diarrhoea,170,120,7,2027-05-07,8
+Kiambu District Store,RUTF-BAR,Ready-to-Use Therapeutic Food,Nutrition,350,150,5,2027-03-03,95
+Ruiru Health Centre,RUTF-BAR,Ready-to-Use Therapeutic Food,Nutrition,180,100,6,2027-02-21,95
+Thika Dispensary,RUTF-BAR,Ready-to-Use Therapeutic Food,Nutrition,60,100,7,2027-02-06,95
+Thika Dispensary,AL-ACT,Artemether-Lumefantrine (AL),Antimalarial,210,120,7,2027-04-22,120
